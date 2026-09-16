@@ -1,0 +1,9 @@
+DATA CLEANING LOG
+
+Input records: 2000
+Duplicate rows removed: 0
+Missing/invalid rows removed: 0
+Final records: 2000
+Final columns: 8
+
+All 2,000 selected records were valid UCI observations. No synthetic records were generated.

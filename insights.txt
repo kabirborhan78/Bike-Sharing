@@ -1,0 +1,10 @@
+BIKE SHARING DATA INSIGHTS
+
+Records analyzed: 2,000
+Selected columns: 8
+
+Temperature vs cnt correlation: 0.414
+Humidity vs cnt correlation: -0.321
+Windspeed vs cnt correlation: 0.114
+
+Average rental count differs by season, month, and working-day status. Correlation indicates association, not causation.
